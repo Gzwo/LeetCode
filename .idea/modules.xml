@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1003-check-if-word-is-valid-after-substitutions/1003-check-if-word-is-valid-after-substitutions.iml" filepath="$PROJECT_DIR$/1003-check-if-word-is-valid-after-substitutions/1003-check-if-word-is-valid-after-substitutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1006-clumsy-factorial/1006-clumsy-factorial.iml" filepath="$PROJECT_DIR$/1006-clumsy-factorial/1006-clumsy-factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1018-binary-prefix-divisible-by-5/1018-binary-prefix-divisible-by-5.iml" filepath="$PROJECT_DIR$/1018-binary-prefix-divisible-by-5/1018-binary-prefix-divisible-by-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1030-matrix-cells-in-distance-order/1030-matrix-cells-in-distance-order.iml" filepath="$PROJECT_DIR$/1030-matrix-cells-in-distance-order/1030-matrix-cells-in-distance-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1036-escape-a-large-maze/1036-escape-a-large-maze.iml" filepath="$PROJECT_DIR$/1036-escape-a-large-maze/1036-escape-a-large-maze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/105-construct-binary-tree-from-preorder-and-inorder-traversal/105-construct-binary-tree-from-preorder-and-inorder-traversal.iml" filepath="$PROJECT_DIR$/105-construct-binary-tree-from-preorder-and-inorder-traversal/105-construct-binary-tree-from-preorder-and-inorder-traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1108-defanging-an-ip-address/1108-defanging-an-ip-address.iml" filepath="$PROJECT_DIR$/1108-defanging-an-ip-address/1108-defanging-an-ip-address.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1122-relative-sort-array/1122-relative-sort-array.iml" filepath="$PROJECT_DIR$/1122-relative-sort-array/1122-relative-sort-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1128-number-of-equivalent-domino-pairs/1128-number-of-equivalent-domino-pairs.iml" filepath="$PROJECT_DIR$/1128-number-of-equivalent-domino-pairs/1128-number-of-equivalent-domino-pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1154-day-of-the-year/1154-day-of-the-year.iml" filepath="$PROJECT_DIR$/1154-day-of-the-year/1154-day-of-the-year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1184-distance-between-bus-stops/1184-distance-between-bus-stops.iml" filepath="$PROJECT_DIR$/1184-distance-between-bus-stops/1184-distance-between-bus-stops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.iml" filepath="$PROJECT_DIR$/1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1200-minimum-absolute-difference/1200-minimum-absolute-difference.iml" filepath="$PROJECT_DIR$/1200-minimum-absolute-difference/1200-minimum-absolute-difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1260-shift-2d-grid/1260-shift-2d-grid.iml" filepath="$PROJECT_DIR$/1260-shift-2d-grid/1260-shift-2d-grid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1276-number-of-burgers-with-no-waste-of-ingredients/1276-number-of-burgers-with-no-waste-of-ingredients.iml" filepath="$PROJECT_DIR$/1276-number-of-burgers-with-no-waste-of-ingredients/1276-number-of-burgers-with-no-waste-of-ingredients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1333-filter-restaurants-by-vegan-friendly-price-and-distance/1333-filter-restaurants-by-vegan-friendly-price-and-distance.iml" filepath="$PROJECT_DIR$/1333-filter-restaurants-by-vegan-friendly-price-and-distance/1333-filter-restaurants-by-vegan-friendly-price-and-distance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/134-gas-station/134-gas-station.iml" filepath="$PROJECT_DIR$/134-gas-station/134-gas-station.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1386-cinema-seat-allocation/1386-cinema-seat-allocation.iml" filepath="$PROJECT_DIR$/1386-cinema-seat-allocation/1386-cinema-seat-allocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1391-check-if-there-is-a-valid-path-in-a-grid/1391-check-if-there-is-a-valid-path-in-a-grid.iml" filepath="$PROJECT_DIR$/1391-check-if-there-is-a-valid-path-in-a-grid/1391-check-if-there-is-a-valid-path-in-a-grid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.iml" filepath="$PROJECT_DIR$/1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1436-destination-city/1436-destination-city.iml" filepath="$PROJECT_DIR$/1436-destination-city/1436-destination-city.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.iml" filepath="$PROJECT_DIR$/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1471-the-k-strongest-values-in-an-array/1471-the-k-strongest-values-in-an-array.iml" filepath="$PROJECT_DIR$/1471-the-k-strongest-values-in-an-array/1471-the-k-strongest-values-in-an-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1481-least-number-of-unique-integers-after-k-removals/1481-least-number-of-unique-integers-after-k-removals.iml" filepath="$PROJECT_DIR$/1481-least-number-of-unique-integers-after-k-removals/1481-least-number-of-unique-integers-after-k-removals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.iml" filepath="$PROJECT_DIR$/1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1508-range-sum-of-sorted-subarray-sums/1508-range-sum-of-sorted-subarray-sums.iml" filepath="$PROJECT_DIR$/1508-range-sum-of-sorted-subarray-sums/1508-range-sum-of-sorted-subarray-sums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1539-kth-missing-positive-number/1539-kth-missing-positive-number.iml" filepath="$PROJECT_DIR$/1539-kth-missing-positive-number/1539-kth-missing-positive-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1556-thousand-separator/1556-thousand-separator.iml" filepath="$PROJECT_DIR$/1556-thousand-separator/1556-thousand-separator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1578-minimum-deletion-cost-to-avoid-repeating-letters/1578-minimum-deletion-cost-to-avoid-repeating-letters.iml" filepath="$PROJECT_DIR$/1578-minimum-deletion-cost-to-avoid-repeating-letters/1578-minimum-deletion-cost-to-avoid-repeating-letters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1582-special-positions-in-a-binary-matrix/1582-special-positions-in-a-binary-matrix.iml" filepath="$PROJECT_DIR$/1582-special-positions-in-a-binary-matrix/1582-special-positions-in-a-binary-matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1625-lexicographically-smallest-string-after-applying-operations/1625-lexicographically-smallest-string-after-applying-operations.iml" filepath="$PROJECT_DIR$/1625-lexicographically-smallest-string-after-applying-operations/1625-lexicographically-smallest-string-after-applying-operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1637-widest-vertical-area-between-two-points-containing-no-points/1637-widest-vertical-area-between-two-points-containing-no-points.iml" filepath="$PROJECT_DIR$/1637-widest-vertical-area-between-two-points-containing-no-points/1637-widest-vertical-area-between-two-points-containing-no-points.iml" />
+      <module fileurl="file://$PROJECT_DIR$/187-repeated-dna-sequences/187-repeated-dna-sequences.iml" filepath="$PROJECT_DIR$/187-repeated-dna-sequences/187-repeated-dna-sequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/228-summary-ranges/228-summary-ranges.iml" filepath="$PROJECT_DIR$/228-summary-ranges/228-summary-ranges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/240-search-a-2d-matrix-ii/240-search-a-2d-matrix-ii.iml" filepath="$PROJECT_DIR$/240-search-a-2d-matrix-ii/240-search-a-2d-matrix-ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/257-binary-tree-paths/257-binary-tree-paths.iml" filepath="$PROJECT_DIR$/257-binary-tree-paths/257-binary-tree-paths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/283-move-zeroes/283-move-zeroes.iml" filepath="$PROJECT_DIR$/283-move-zeroes/283-move-zeroes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/301-remove-invalid-parentheses/301-remove-invalid-parentheses.iml" filepath="$PROJECT_DIR$/301-remove-invalid-parentheses/301-remove-invalid-parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/303-range-sum-query-immutable/303-range-sum-query-immutable.iml" filepath="$PROJECT_DIR$/303-range-sum-query-immutable/303-range-sum-query-immutable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32-longest-valid-parentheses/32-longest-valid-parentheses.iml" filepath="$PROJECT_DIR$/32-longest-valid-parentheses/32-longest-valid-parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/328-odd-even-linked-list/328-odd-even-linked-list.iml" filepath="$PROJECT_DIR$/328-odd-even-linked-list/328-odd-even-linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/338-counting-bits/338-counting-bits.iml" filepath="$PROJECT_DIR$/338-counting-bits/338-counting-bits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/349-intersection-of-two-arrays/349-intersection-of-two-arrays.iml" filepath="$PROJECT_DIR$/349-intersection-of-two-arrays/349-intersection-of-two-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/396-rotate-function/396-rotate-function.iml" filepath="$PROJECT_DIR$/396-rotate-function/396-rotate-function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/406-queue-reconstruction-by-height/406-queue-reconstruction-by-height.iml" filepath="$PROJECT_DIR$/406-queue-reconstruction-by-height/406-queue-reconstruction-by-height.iml" />
+      <module fileurl="file://$PROJECT_DIR$/521-longest-uncommon-subsequence-i/521-longest-uncommon-subsequence-i.iml" filepath="$PROJECT_DIR$/521-longest-uncommon-subsequence-i/521-longest-uncommon-subsequence-i.iml" />
+      <module fileurl="file://$PROJECT_DIR$/565-array-nesting/565-array-nesting.iml" filepath="$PROJECT_DIR$/565-array-nesting/565-array-nesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/575-distribute-candies/575-distribute-candies.iml" filepath="$PROJECT_DIR$/575-distribute-candies/575-distribute-candies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/583-delete-operation-for-two-strings/583-delete-operation-for-two-strings.iml" filepath="$PROJECT_DIR$/583-delete-operation-for-two-strings/583-delete-operation-for-two-strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/636-exclusive-time-of-functions/636-exclusive-time-of-functions.iml" filepath="$PROJECT_DIR$/636-exclusive-time-of-functions/636-exclusive-time-of-functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/655-print-binary-tree/655-print-binary-tree.iml" filepath="$PROJECT_DIR$/655-print-binary-tree/655-print-binary-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/687-longest-univalue-path/687-longest-univalue-path.iml" filepath="$PROJECT_DIR$/687-longest-univalue-path/687-longest-univalue-path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/74-search-a-2d-matrix/74-search-a-2d-matrix.iml" filepath="$PROJECT_DIR$/74-search-a-2d-matrix/74-search-a-2d-matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/764-largest-plus-sign/764-largest-plus-sign.iml" filepath="$PROJECT_DIR$/764-largest-plus-sign/764-largest-plus-sign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/788-rotated-digits/788-rotated-digits.iml" filepath="$PROJECT_DIR$/788-rotated-digits/788-rotated-digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/796-rotate-string/796-rotate-string.iml" filepath="$PROJECT_DIR$/796-rotate-string/796-rotate-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/813-largest-sum-of-averages/813-largest-sum-of-averages.iml" filepath="$PROJECT_DIR$/813-largest-sum-of-averages/813-largest-sum-of-averages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/820-short-encoding-of-words/820-short-encoding-of-words.iml" filepath="$PROJECT_DIR$/820-short-encoding-of-words/820-short-encoding-of-words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/825-friends-of-appropriate-ages/825-friends-of-appropriate-ages.iml" filepath="$PROJECT_DIR$/825-friends-of-appropriate-ages/825-friends-of-appropriate-ages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/835-image-overlap/835-image-overlap.iml" filepath="$PROJECT_DIR$/835-image-overlap/835-image-overlap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/898-bitwise-ors-of-subarrays/898-bitwise-ors-of-subarrays.iml" filepath="$PROJECT_DIR$/898-bitwise-ors-of-subarrays/898-bitwise-ors-of-subarrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/911-online-election/911-online-election.iml" filepath="$PROJECT_DIR$/911-online-election/911-online-election.iml" />
+      <module fileurl="file://$PROJECT_DIR$/922-sort-array-by-parity-ii/922-sort-array-by-parity-ii.iml" filepath="$PROJECT_DIR$/922-sort-array-by-parity-ii/922-sort-array-by-parity-ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/937-reorder-data-in-log-files/937-reorder-data-in-log-files.iml" filepath="$PROJECT_DIR$/937-reorder-data-in-log-files/937-reorder-data-in-log-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/969-pancake-sorting/969-pancake-sorting.iml" filepath="$PROJECT_DIR$/969-pancake-sorting/969-pancake-sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/989-add-to-array-form-of-integer/989-add-to-array-form-of-integer.iml" filepath="$PROJECT_DIR$/989-add-to-array-form-of-integer/989-add-to-array-form-of-integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
+    </modules>
+  </component>
+</project>
