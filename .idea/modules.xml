@@ -50,6 +50,7 @@
       <module fileurl="file://$PROJECT_DIR$/386-lexicographical-numbers/386-lexicographical-numbers.iml" filepath="$PROJECT_DIR$/386-lexicographical-numbers/386-lexicographical-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/396-rotate-function/396-rotate-function.iml" filepath="$PROJECT_DIR$/396-rotate-function/396-rotate-function.iml" />
       <module fileurl="file://$PROJECT_DIR$/406-queue-reconstruction-by-height/406-queue-reconstruction-by-height.iml" filepath="$PROJECT_DIR$/406-queue-reconstruction-by-height/406-queue-reconstruction-by-height.iml" />
+      <module fileurl="file://$PROJECT_DIR$/452-minimum-number-of-arrows-to-burst-balloons/452-minimum-number-of-arrows-to-burst-balloons.iml" filepath="$PROJECT_DIR$/452-minimum-number-of-arrows-to-burst-balloons/452-minimum-number-of-arrows-to-burst-balloons.iml" />
       <module fileurl="file://$PROJECT_DIR$/521-longest-uncommon-subsequence-i/521-longest-uncommon-subsequence-i.iml" filepath="$PROJECT_DIR$/521-longest-uncommon-subsequence-i/521-longest-uncommon-subsequence-i.iml" />
       <module fileurl="file://$PROJECT_DIR$/565-array-nesting/565-array-nesting.iml" filepath="$PROJECT_DIR$/565-array-nesting/565-array-nesting.iml" />
       <module fileurl="file://$PROJECT_DIR$/575-distribute-candies/575-distribute-candies.iml" filepath="$PROJECT_DIR$/575-distribute-candies/575-distribute-candies.iml" />
